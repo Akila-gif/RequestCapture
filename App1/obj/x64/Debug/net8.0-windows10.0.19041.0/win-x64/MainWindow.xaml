@@ -26,7 +26,6 @@
               VerticalScrollMode="Enabled"
               VerticalScrollBarVisibility="Auto">
             <TextBlock x:ConnectionId='3' x:Name="requestCountText" 
-               TextWrapping="Wrap"
                Text="No requests captured yet"/>
         </ScrollViewer>
     </Grid>
